@@ -13,19 +13,19 @@ A self motivated wandering software engineer with passion on coding.
 
 - 🚀 2025 Goals: **More Knowledge, More Coding**
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookyx0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
-</div>
-
-<h3 align="left">Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&row=5" alt="GitHub Trophies" width="100%" style="max-width: 400px;" />
+</p>
+
+<br>
+
 <img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="center">
