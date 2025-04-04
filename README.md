@@ -11,7 +11,7 @@ A self motivated student with passion on programming.
 
 - 🚀 I’m currently Working on some projects.
 
-- 🚀 2025 Goals: **More Knowledge, More Coding**
+- 🚀 2025 Goals: **More Knowledge, More Coding and More Experience**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
