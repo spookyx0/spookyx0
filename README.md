@@ -7,7 +7,7 @@
 
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
-A self motivated wandering software engineer with passion on coding.
+A self motivated student with passion on programming.
 
 - 🚀 I’m currently Working on some projects.
 
