@@ -11,7 +11,7 @@ A self motivated wandering software engineer with passion on coding.
 
 - 🚀 2025 Goals: **More Knowledge, More Coding**
 
-<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=sencin&show_icons=true&hide_border=true&theme=omni"/>
+<img align="justify" src="https://github-readme-stats-mu-ten-12.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni"/>
 <img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="left">
