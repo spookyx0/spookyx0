@@ -3,7 +3,7 @@
   <img src="./assets/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
 </div>
 
-<img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+<img align="justify" width="100%" src="https://github.com/spookyx0/spookyx0/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 A self motivated wandering software engineer with passion on coding.
 
