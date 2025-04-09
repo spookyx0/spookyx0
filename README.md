@@ -9,7 +9,7 @@
 
 A self motivated student with passion on programming.
 
-- 🚀 I’m currently Working on some projects.
+- 🚀 I’m currently Working on some projects. 
 
 - 🚀 2025 Goals: **More Knowledge, More Coding and More Experience**
 
