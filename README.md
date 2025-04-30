@@ -30,17 +30,17 @@ A self motivated student with passion on programming.
 <img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js,python,react,ruby,swift" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,java,cs,kotlin,react,vue" alt="John Layda">
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino,dotnet,bootstrap,nextjs,jquery,angular">
+<img src="https://skillicons.dev/icons?i=vue,laravel,bootstrap,nextjs,jquery">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=express,firebase,supabase,dotnet,nextjs,nestjs,nodejs" >
+<img src="https://skillicons.dev/icons?i=express,laravel,nextjs,nestjs,nodejs,python" >
 </p>
 
 <h3 align="left">A.I Frameworks:</h3>
@@ -50,7 +50,7 @@ A self motivated student with passion on programming.
 
 <h3 align="left">Database:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,mongodb,firebase">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,prisma">
 </p>
 
 <h3 align="left">Hosting Platform:</h3>
@@ -60,5 +60,5 @@ A self motivated student with passion on programming.
 
 <h3 align="left">Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gitlab,vscode,androidstudio">
 </p>
