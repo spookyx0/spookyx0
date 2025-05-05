@@ -30,12 +30,12 @@ A motivated student with passion on programming and willing to learn more.
 <img align="justify" height="50" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,java,cs,kotlin,react,vue" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,java,cs,kotlin,react,ts" alt="John Layda">
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue,laravel,bootstrap,nextjs,jquery">
+<img src="https://skillicons.dev/icons?i=vue,bootstrap,jquery,tailwindcss">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
@@ -60,5 +60,5 @@ A motivated student with passion on programming and willing to learn more.
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gitlab,vscode,androidstudio">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gitlab,vscode,androidstudio,vite">
 </p>
