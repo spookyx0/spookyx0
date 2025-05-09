@@ -60,5 +60,5 @@ A motivated student with passion on programming and willing to learn more.
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gitlab,vscode,androidstudio,vite">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gitlab,androidstudio,vite">
 </p>
