@@ -4,7 +4,7 @@
 <div align="center">   
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF"> 
 </div>  
-  
+   
 <img align="justify" width="100%" src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/> 
 
 A motivated student with passion on programming and willing to learn more.
