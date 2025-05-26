@@ -1,7 +1,7 @@
 ### Visitors Count
  ![Visitor Count](https://profile-counter.glitch.me/spookyx0/count.svg) 
       
-<div align="center">    
+<div align="center">     
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF"> 
 </div>    
  
