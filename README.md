@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://profile-counter.glitch.me/spookyx0/count.svg" alt="Visitor Count" />  
 </p> 
- 
+  
 <!-- Header GIF -->   
 <p align="center">   
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive Showcase" />
