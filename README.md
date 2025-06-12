@@ -2,7 +2,7 @@
 ### Visitors Count  
 <p align="left">
   <img src="https://profile-counter.glitch.me/spookyx0/count.svg" alt="Visitor Count" />  
-</p> 
+</p>  
   
 <!-- Header GIF -->   
 <p align="center">   
