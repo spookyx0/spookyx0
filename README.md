@@ -8,7 +8,7 @@
 <p align="center">   
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive Showcase" />
 </p> 
-
+ 
 <!-- Snake Contribution Graph -->
 <p align="center">
   <img src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
