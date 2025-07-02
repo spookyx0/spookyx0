@@ -87,7 +87,7 @@
 
 ### ☁️ Hosting & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Hosting" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws" alt="Hosting" />
 </p>
 
 ### 🧰 Tools & Environments
