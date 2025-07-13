@@ -12,7 +12,7 @@
 <!-- Snake Contribution Graph -->
 <p align="center">
   <img src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
-</p>
+</p> 
  
 ---
 
