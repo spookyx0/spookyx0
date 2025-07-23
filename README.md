@@ -7,7 +7,7 @@
 <!-- Header GIF -->    
 <p align="center">      
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive Showcase" />
-</p>      
+</p>       
  
 <!-- Snake Contribution Graph -->
 <p align="center">
