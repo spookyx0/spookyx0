@@ -29,7 +29,7 @@
 
 - 🎓 I'm currently diving deep into **Full Stack Development**.
 - 💡 I believe in *"More Knowledge, More Coding, More Experience."*
-- 💻 I love building web apps, exploring AI, and automating things.
+- 💻 I'm open for collaborations, contact me through these "kenkenlobos8@gmail.com | +639543043030"
 - 🌱 Currently learning **NestJS, Next.js**, and expanding my **AI/ML** toolkit.
 
 ---
