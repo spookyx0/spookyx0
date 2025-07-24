@@ -16,7 +16,7 @@
  
 ---
 
-<h1 align="center">Hi there! 👋 I'm spookyx0</h1>
+<h1 align="center">Hi there! 👋 I'm Quinnreeve Lobos</h1>
 
 <p align="center">
   A passionate and motivated student exploring the world of software development. <br />
