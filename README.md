@@ -9,7 +9,7 @@
 </p> 
  
 ---
-
+ 
 <h1 align="center">Hi there! 👋 I'm Quinnreeve Lobos</h1>
 
 <p align="center">
