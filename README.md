@@ -1,9 +1,3 @@
-<!-- Visitor Counter -->
-### Visitors Count    
-<p align="left">
-  <img src="https://profile-counter.glitch.me/spookyx0/count.svg" alt="Visitor  Count" />       
-</p>       
-     
 <!-- Header GIF -->     
 <p align="center">      
   <img src="./assets/responsivegif.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive Showcase" />  
@@ -99,8 +93,4 @@
 
 <p align="center">
   <img src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="50" />
-</p>
-
-<p align="center">
-  *Let's build something amazing together.*
 </p>
