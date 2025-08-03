@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/sencin/sencin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
 </p> 
- 
+  
 ---
  
 <h1 align="center">Hi there! 👋 I'm Quinnreeve Lobos</h1>
