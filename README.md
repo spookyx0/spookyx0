@@ -11,7 +11,7 @@
 ---
  
 <h1 align="center">Hi there! 👋 I'm Quinnreeve Lobos</h1>
-
+ 
 <p align="center">
   A passionate and motivated student exploring the world of software development. <br />
   Eager to keep learning, building, and growing every day. 🚀
