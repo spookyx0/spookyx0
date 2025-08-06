@@ -51,7 +51,7 @@ A passionate and motivated software developer exploring the world of software de
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="left" width="70%">
   <img src="https://github-readme-stats.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </p>
