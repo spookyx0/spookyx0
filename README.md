@@ -46,7 +46,7 @@ A passionate and motivated software developer exploring the world of software de
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="70%" style="max-width: 400px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="80%" style="max-width: 400px;" />
 </p>
 
 ## 📊 GitHub Stats
