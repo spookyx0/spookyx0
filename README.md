@@ -56,7 +56,7 @@ A passionate and motivated software developer exploring the world of software de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookyx0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" alt="Top Languages" />
 </p>
 
