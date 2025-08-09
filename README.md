@@ -43,23 +43,6 @@ A passionate and motivated software developer exploring the world of software de
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="80%" style="max-width: 400px;" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="left" width="70%">
-  <img src="https://github-readme-stats.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookyx0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" alt="Top Languages" />
-</p>
-
 ### Socials
 
 <p align="left"> 
@@ -69,3 +52,20 @@ A passionate and motivated software developer exploring the world of software de
 <a href="http://www.instagram.com/kennwithahodie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> 
 <a href="https://www.linkedin.com/in/quinnreeve-lobos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 <a href="https://www.stackoverflow.com/users/31218126/quinnreeve-lobos target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spookyx0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="80%" style="max-width: 400px;" />
+</p>
+
+## GitHub Stats
+
+<p align="left" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api?username=spookyx0&show_icons=true&hide_border=true&theme=omni" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spookyx0&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookyx0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut-vertical&langs_count=20" alt="Top Languages" />
+</p>
